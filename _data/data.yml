@@ -28,17 +28,23 @@ sidebar:
      
     interests:
       - item: Piano
+        link:
         
       - item: Riding
+        link:
         
       - item: Shooting
+        link:
         
       - item: Cooking
-      
+        link:
+        
       - item: Architecture
-      
+        link:
+        
       - item: Design & decoration
-             
+        link:
+        
         
 career-profile:
     title: Career Profile

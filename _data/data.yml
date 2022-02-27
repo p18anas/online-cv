@@ -50,18 +50,24 @@ career-profile:
     title: Career Profile
     summary: |
       A student with knowledge in programming languages and willing to develop in her field.   
+      
+      
+      
 education:
     - degree: Study computer science
       university: Ionian University
       time: 2019 - present
       details: |
         I study at the Ionian University of Corfu in the department of informatics.
+        
+        
+        
 experiences:
     - role: 
       time: 
       company: 
       details: |
-        no experience 
+        No experience yet
 
 
 
